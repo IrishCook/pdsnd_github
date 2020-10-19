@@ -1,8 +1,8 @@
 ### Date created
-Include the date you created this project and README file.
+Project initial submission 19/10/2020
 
 ### Project Title
-Replace the Project Title
+BikeShare data
 
 ### Description
 Describe what your project is about and what it does
