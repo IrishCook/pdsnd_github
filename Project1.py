@@ -163,6 +163,8 @@ def user_stats(df):
     print('-'*40)
 
 def display_data(df):
+    """Displays only 5 lines per user request"""
+    
     view_display = input('\nWould you like to view 5 rows of individual trip data? Enter y for yes.\n')
     start=0
     while start!=len(df) and view_display=='y':
