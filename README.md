@@ -52,8 +52,10 @@ earliest, most recent, most common year of birth (only available for NYC and Chi
 
 
 ### Files used
-Include the files used
+Files used:
+* Chicago/NYC/Washington datasets
+* Project2.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+All sources coming from Udacity
 
